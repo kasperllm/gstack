@@ -1,0 +1,1 @@
+Full CLAUDE.md development instructions from original gstack
