@@ -1,0 +1,1 @@
+Full AGENTS.md content from workspace

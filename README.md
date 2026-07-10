@@ -1,1 +1,1 @@
-Full content of gstack repo
+Full README content
