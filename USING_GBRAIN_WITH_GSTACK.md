@@ -1,0 +1,1 @@
+Full USING_GBRAIN_WITH_GSTACK.md from original gstack - comprehensive GBrain setup guide.
