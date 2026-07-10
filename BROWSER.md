@@ -1,0 +1,1 @@
+Full BROWSER.md content - complete command reference for the $B CLI, browser skills, security stack, etc.
