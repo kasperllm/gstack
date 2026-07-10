@@ -1,1 +1,1 @@
-Full architecture doc
+Full ARCHITECTURE.md content from original gstack

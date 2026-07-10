@@ -1,1 +1,1 @@
-Full AGENTS.md content from workspace
+Full content of AGENTS.md from the original gstack (plan-mode reviews, implementation skills, release tools, browser tools, iOS QA, safety skills, etc.)
